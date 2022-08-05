@@ -10,7 +10,7 @@ $app->router->get('/', function(){
     return "OLAAA";
 });
 
-$app->router->get('/leo', function(){
+$app->router->get('/contact', function(){
     return "OLAAA";
 });
 
